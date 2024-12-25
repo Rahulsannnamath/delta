@@ -1,2 +1,2 @@
 # delta
-testing repo
+testing repo.
